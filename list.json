@@ -1,6 +1,6 @@
 {
     "base_offset": "0x14BFF04",
-    "hp_offset": "0x1C",
-    "new_offset": "0x160",
+    "hp_offset": "0x1c",
+    "new_offset": "0x168",
     "text_offset": "0x14CA704"
 }
